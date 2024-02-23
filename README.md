@@ -8,7 +8,7 @@
 
 **Blog Name:** Blog Your Journey
 
-There is no special setup instruction in our group project.
+If you have node.js installed, you could begin the app with npm install then npm run dev
 
 Usernames and passwords for markers to use: 
 
