@@ -8,7 +8,7 @@
 
 **Blog Name:** Blog Your Journey
 
-If you have node.js installed, you could begin the app with npm install then npm run dev
+If you have node.js installed, you could begin the app with npm install then npm run dev in both backend and frontend
 
 Usernames and passwords for markers to use: 
 
